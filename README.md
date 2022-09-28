@@ -5,4 +5,4 @@
 # If you are ready press [:arrow_forward:](./index.md)
 
 
-####:hash: [Verónika](https://github.com/VkaSC)  *en constante evolución* :rocket: 
+#### :hash: [Verónika](https://github.com/VkaSC)  *en constante evolución* :rocket: 
