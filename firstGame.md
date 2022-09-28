@@ -22,7 +22,7 @@ Icono de inicio: `:hash:`
 
 Enlace: `[nombre](ruta a tu repo)`
 
-Frase: Aqui puedes aprovechar para trasterar con [Markdown](https://tutorialmarkdown.com/sintaxis), por ejemplo usando:*cursiva* - **negrita**  
+Frase: Aqui puedes aprovechar para trasterar con [Markdown](https://tutorialmarkdown.com/sintaxis), por ejemplo usando: *cursiva* - **negrita**  
 
 Icono: [Lista de emojis para Markdown](https://tutorialmarkdown.com/emojis#emojis-de-caras-o-gente)
 
