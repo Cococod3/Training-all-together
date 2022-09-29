@@ -7,3 +7,4 @@
 
 #### :hash: [Verónika](https://github.com/VkaSC)  *en constante evolución* :rocket: 
 #### :hash: [davidbonora](https://github.com/davidbonora)  *busco trabajo* :dash: 
+### :hash: [Nachomg93](https://github.com/Nachomg93/Nachomg93) *calidad de vida* :trollface:
