@@ -7,3 +7,4 @@
 
 #### :hash: [Verónika](https://github.com/VkaSC)  *en constante evolución* :rocket: 
 #### :hash: [davidbonora](https://github.com/davidbonora)  *busco trabajo* :dash: 
+#### :hash: [FranAlonso](https://github.com/FranAlonso91)   *como mucho* :hankey:
