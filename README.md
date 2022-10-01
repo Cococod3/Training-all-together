@@ -10,3 +10,4 @@
 #### :hash: [FranAlonso](https://github.com/FranAlonso91)   *como mucho* :hankey:
 #### :hash: [Nachomg93](https://github.com/Nachomg93/Nachomg93) *calidad de vida* :trollface:
 #### :hash: [Pablo](https://github.com/pablommartos/pablommartos) ***Cáete siete veces, levántate 8*** :triumph:
+#### :hash: [Oliver](https://github.com/Cococod3/Cococod3) ***One good thing about music is: when it hits you, you feel no pain*** :sound:
